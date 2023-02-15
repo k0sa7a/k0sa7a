@@ -11,3 +11,4 @@
 
 <h3 align="left">Codewars stats:</h3>
 ![Codewars](https://github.r2v.ch/codewars?user=k0sa7a&stroke=23BB432C)
+![image](https://www.codewars.com/users/k0sa7a/badges/large)
